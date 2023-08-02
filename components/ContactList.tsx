@@ -5,25 +5,25 @@ export default function ContactList() {
   const contacts = [
     {
       uid: 1,
-      name: "Sanketh Singh",
+      name: "Krishnaraj",
       status: "Making your GPay smooth",
       imageUrl: "https://avatars.githubusercontent.com/u/29747452?v=4",
     },
     {
       uid: 2,
-      name: "Sanketh Singh",
+      name: "krishnaraj",
       status: "Making your GPay smooth",
       imageUrl: "https://avatars.githubusercontent.com/u/29747452?v=4",
     },
     {
       uid: 3,
-      name: "Sanketh Singh",
+      name: "krishnaraj",
       status: "Making your GPay smooth",
       imageUrl: "https://avatars.githubusercontent.com/u/29747452?v=4",
     },
     {
       uid: 4,
-      name: "Sanketh Singh",
+      name: "Krishnaraj",
       status: "Making your GPay smooth",
       imageUrl: "https://avatars.githubusercontent.com/u/29747452?v=4",
     },
